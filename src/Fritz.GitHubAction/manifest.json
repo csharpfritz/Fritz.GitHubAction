@@ -1,0 +1,37 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/github",
+      "Name": "GitHubProject",
+      "States": [
+        {
+          "Image": "images/github",
+          "TitleAlignment": "middle",
+          "FontSize": "8"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "Track the issues and PRs for a GitHub project",
+      "UUID": "csharpfritz.githubproject.action"
+    }
+  ],
+  "Author": "",
+	"CodePathWin": "Fritz.GitHubAction.exe",
+	"CodePathMac":  "Fritz.GitHubAction",
+  "PropertyInspectorPath": "property_inspector/property_inspector.html",
+  "Description": "Monitor a GitHub project and click to visit the website",
+  "Name": "GitHubProject",
+  "Icon": "images/pluginIcon",
+  "URL": "https://www.elgato.com/gaming/stream-deck",
+  "Version": "0.2",
+  "OS": [
+    {
+        "Platform": "mac",
+        "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows",
+        "MinimumVersion" : "10"
+    }
+  ]
+}
