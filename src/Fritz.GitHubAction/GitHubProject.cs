@@ -19,7 +19,7 @@ namespace Fritz.GitHubAction
 		Cheer 100 roberttables February 10, 2019
 		Cheer 500 Lannonbr February 10, 2019
 		Cheer 500 theMichaelJolley February 10, 2019
-		Cheer 100 JamesMontemagno February 10, 2019
+		Cheer 200 JamesMontemagno February 10, 2019
 		*/
 
 
