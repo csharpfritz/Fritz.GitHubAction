@@ -19,7 +19,7 @@ echo "Installing the $pluginName plugin to $pluginsDir"
 
 # Push the plugins directory on the stack
 pushd "$pluginsDir"
-# Check if the plugin direcotyr exists and remove it
+# Check if the plugin directory exists and remove it
 [ -d "$pluginName.sdPlugin" ] && rm -r $pluginName.sdPlugin
 # Create the plugins directory
 mkdir $pluginName.sdPlugin
